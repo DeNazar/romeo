@@ -1,0 +1,1 @@
+echo "Is $num prime? " . (is_prime($num) ? "Yes" : "No");
